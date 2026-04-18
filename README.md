@@ -9,8 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Final-year student aiming for **Frontend / Full Stack roles**
-- 💻 2.5+ years of experience in **React.js ecosystem**
+- 💻 0.5+ years of experience in **React.js ecosystem**
 - ⚡ Built projects like:
   - 🎬 OTT Platform (React + Firebase + Movie API)
   - 📊 Bitcoin Real-Time Tracker (CoinGecko API)

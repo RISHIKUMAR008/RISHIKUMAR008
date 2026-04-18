@@ -52,7 +52,14 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishikumar008&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikumar008" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rishikumar008&show_icons=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikumar008" />
+    </td>
+  </tr>
+</table>
+

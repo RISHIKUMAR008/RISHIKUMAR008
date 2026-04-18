@@ -45,7 +45,7 @@
 
 ## 📫 Connect with Me
 - 📧 Email: **rishikumarrrishi@gmail.com**
-- 🐦 Twitter: https://twitter.com/@rishiku56360524
+- 🐦 Twitter: [https://twitter.com/@rishiku56360524](https://x.com/RISHI__Kum)
 - 📸 Instagram: [https://instagram.com/aaar_keee_008](https://www.instagram.com/rishi_kumar_00099/)
 - 💻 LeetCode: https://leetcode.com/rishi_kumar_009
 

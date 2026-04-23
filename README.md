@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Kumar</h1>
-<h3 align="center">🚀 Frontend Developer | React.js | Next.js | MERN Stack Enthusiast</h3>
+<h3 align="center">🚀 Frontend Developer | React.js | Next.js | MERN Stack </h3>
 
 <p align="center">
 💡 Passionate about building scalable, high-performance web applications <br/>

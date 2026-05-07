@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishi Kumar</h1>
+ <h1 align="center">Hi 👋, I'm Rishi Kumar</h1>
 <h3 align="center">🚀 Frontend Developer | React.js | Next.js | MERN Stack </h3>
 
 <p align="center">
